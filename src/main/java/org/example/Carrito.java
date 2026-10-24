@@ -26,7 +26,6 @@ public class Carrito {
      public  int cantidad(){
         return productos.size();
      }
-
      public double aplicarDescuesto(){
         //este es la rama que va a subir alejandro
      }
