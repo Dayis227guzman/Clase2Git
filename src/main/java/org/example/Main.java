@@ -11,7 +11,7 @@ public class Main {
         credenciales.put("locked_out_user", "secret_sauce");
          Carrito carrito = new Carrito() ;
          try{
-             carrito.agregar(new Producto("mazda",12000.89));
+             carrito.agregar(new Producto("mazda",19000));
              carrito.agregar(new Producto("renault",1000.09));
              carrito.agregar(null);
          }
